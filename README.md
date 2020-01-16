@@ -1,7 +1,7 @@
-## Climate-Science-Analysis
+# Climate-Science-Analysis
 
 ---------------------------------------------------------------------------------------------------------
-# Climate Change impact on global Sea Surface Temperatures
+## Climate Change impact on global Sea Surface Temperatures
 
 Main code #1: CMIP5_SST.py
 
@@ -31,7 +31,7 @@ Final plotting products:
 
 ---------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------
-# Other Climate Science analysis and plots
+## Other Climate Science analysis and plots
 
 Main code #2: CMIP5_Climate.py
 
