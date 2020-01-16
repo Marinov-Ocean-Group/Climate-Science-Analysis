@@ -4,7 +4,6 @@
 ####     Behzad Asadieh, Ph.D.      ####
 ####  University of Pennsylvania    ####
 ####    basadieh@sas.upenn.edu      ####
-####     github.com/behzadasd       ####
 ########################################
 import numpy as np
 from numpy import zeros, ones, empty, nan, shape
