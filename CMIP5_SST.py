@@ -4,7 +4,6 @@
 ####     Behzad Asadieh, Ph.D.      ####
 ####  University of Pennsylvania    ####
 ####    basadieh@sas.upenn.edu      ####
-####     github.com/behzadasd       ####
 ########################################
 
 from Behzadlib import func_latlon_regrid, func_regrid, func_oceanlandmask, func_gridcell_area
